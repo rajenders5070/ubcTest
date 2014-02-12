@@ -15,7 +15,8 @@
         "email": "rajenders@ocodewire.com"
     },
     "require": {
-        "php": ">=5.2.0"
+        "php": ">=5.2.0",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-0": {
